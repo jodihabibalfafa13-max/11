@@ -753,29 +753,29 @@ section,
 }
 
 /*--------------------------------------------------------------
-# About Section
+# Profile Section
 --------------------------------------------------------------*/
-.profil .content h2 {
+.profile .content h2 {
   font-weight: 700;
   font-size: 24px;
 }
 
-.profil .content ul {
+.profile .content ul {
   list-style: none;
   padding: 0;
 }
 
-.profil .content ul li {
+.profile .content ul li {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
 }
 
-.profil .content ul strong {
+.profile .content ul strong {
   margin-right: 10px;
 }
 
-.profil .content ul i {
+.profile .content ul i {
   font-size: 16px;
   margin-right: 5px;
   color: var(--accent-color);
